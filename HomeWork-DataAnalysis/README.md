@@ -39,8 +39,3 @@ The notebook includes various plots and charts, such as:
 - **Pandas**: Data manipulation.
 - **Matplotlib** & **Seaborn**: Data visualization.
 - **NumPy**: Numerical computations.
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Sales-and-Customer-Analysis.git
