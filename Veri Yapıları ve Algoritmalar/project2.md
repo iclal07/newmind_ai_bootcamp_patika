@@ -1,5 +1,7 @@
 # Merge Sort
 
+> Verilen Dizi = [16,21,11,8,12,22]
+
 ## Aşamalar:
 1. Diziyi ikiye böl:  
    `[16, 21, 11]` ve `[8, 12, 22]`
